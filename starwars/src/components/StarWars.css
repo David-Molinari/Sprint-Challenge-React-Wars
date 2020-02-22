@@ -1,0 +1,7 @@
+.Post {
+    margin: 2%;
+    font-size: 20px;
+    padding: 2%;
+    border: 2px solid black;
+    border-radius: 10%
+}
